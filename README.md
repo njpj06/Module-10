@@ -13,8 +13,8 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 
-https://drive.google.com/file/d/1gHTUtWNEgSqOBYRZq2f2qeB-fcHY9tRT/view
 
+[Untitled_ Sep 28, 2022 4_35 PM (1).webm](https://user-images.githubusercontent.com/108623643/192884195-c011f654-2139-4118-8d9b-10733dac6ad4.webm)
 
 
 ## Contributing 
@@ -24,4 +24,4 @@ No taking any contributions at this time
 Run `npm test` to run Jest for tests on constructors. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at oscarhurtadosb@gmail.com.
+If you have any questions about this projects, please contact me directly at njpj@ymail.com.
